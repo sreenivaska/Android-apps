@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, MyFirstLinearLayout!</string>
+    <string name="app_name">MyFirstLinearLayout</string>
+    <string name="exit_label">Exit</string>
+        <string name="text_label">This is my first example for linear layout view.</string>
+</resources>

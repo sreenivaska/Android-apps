@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="hello">Hello World, Gallery1!</string>
-    <string name="app_name">Gallery Example</string>
-     <declare-styleable name="GalleryTheme">
-        <attr name="android:galleryItemBackground" />
-    </declare-styleable>
-    
+    <string name="hello">Hello World, Gallery1Activity!</string>
+    <string name="app_name">Gallery1</string>
 </resources>

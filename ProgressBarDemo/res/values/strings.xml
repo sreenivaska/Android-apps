@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="hello">Hello World, ProgressBarDemoActivity!</string>
+	<string name="app_name">ProgressBarDemo</string>
+	<string name="progressbar_3_progress">Show Progress</string>
+	<string name="progressbar_3_indeterminate">Show Indeterminate</string>
+	<string name="progressbar_3_indeterminate_no_title">Show Indeterminate No Title</string>
+</resources>

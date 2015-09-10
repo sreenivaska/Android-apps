@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, SpinnerDemoActivity!</string>
+    <string name="app_name">SpinnerDemo</string>
+    <string name="spinner_1_color">Color:</string>
+    <string name="spinner_1_planet">Planet:</string>
+    <string name="spinner_1_color_prompt">Choose a color</string>
+    <string name="spinner_1_planet_prompt">Choose a planet</string>
+</resources>

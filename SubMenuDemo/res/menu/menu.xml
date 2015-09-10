@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+	<item android:id="@+id/Menu1" android:orderInCategory="1"
+		android:title="Add" />
+	<item android:id="@+id/submenu" android:title="Send"
+		android:orderInCategory="2">
+		<menu>
+			<item android:id="@+id/submenu1" android:title="Via BlueTooth" />
+			<item android:id="@+id/submenu2" android:title="Via SMS" />
+		</menu>
+	</item>
+	<item android:id="@+id/Menu3" android:orderInCategory="3"
+		android:title="Copy" />
+	<item android:id="@+id/Menu4" android:title="Delete"
+		android:orderInCategory="5" />
+	<item android:id="@+id/Menu5" android:title="Move"
+		android:orderInCategory="6" />
+	<item android:id="@+id/Menu6" android:title="Edit"
+		android:orderInCategory="7" />
+	<item android:id="@+id/Menu7" android:title="Rename"
+		android:orderInCategory="8" />
+	
+
+</menu>

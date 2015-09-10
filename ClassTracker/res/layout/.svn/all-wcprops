@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/enlume/!svn/ver/62244/products/EdVie-Engg/Project-Work/trunk/projects/classtracker/src/ClassTracker/res/layout
+END
+addclass.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/enlume/!svn/ver/62244/products/EdVie-Engg/Project-Work/trunk/projects/classtracker/src/ClassTracker/res/layout/addclass.xml
+END
+listclasses.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/enlume/!svn/ver/62244/products/EdVie-Engg/Project-Work/trunk/projects/classtracker/src/ClassTracker/res/layout/listclasses.xml
+END
+main.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/enlume/!svn/ver/62244/products/EdVie-Engg/Project-Work/trunk/projects/classtracker/src/ClassTracker/res/layout/main.xml
+END
+addbatch.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/enlume/!svn/ver/62244/products/EdVie-Engg/Project-Work/trunk/projects/classtracker/src/ClassTracker/res/layout/addbatch.xml
+END
+batch.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/enlume/!svn/ver/62244/products/EdVie-Engg/Project-Work/trunk/projects/classtracker/src/ClassTracker/res/layout/batch.xml
+END
+listbatches.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/enlume/!svn/ver/62244/products/EdVie-Engg/Project-Work/trunk/projects/classtracker/src/ClassTracker/res/layout/listbatches.xml
+END
+updateclass.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/enlume/!svn/ver/62244/products/EdVie-Engg/Project-Work/trunk/projects/classtracker/src/ClassTracker/res/layout/updateclass.xml
+END
+updatebatch.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/enlume/!svn/ver/62244/products/EdVie-Engg/Project-Work/trunk/projects/classtracker/src/ClassTracker/res/layout/updatebatch.xml
+END
+classrow.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/enlume/!svn/ver/62244/products/EdVie-Engg/Project-Work/trunk/projects/classtracker/src/ClassTracker/res/layout/classrow.xml
+END

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="hello">Hello World, AutoCompleteTextViewsActivity!
+	</string>
+	<string name="app_name">AutoCompleteTextViews</string>
+	<string name="autocomplete_1_instructions">Type in the text field for auto-completion.
+	</string>
+	<string name="autocomplete_1_country">Country:</string>
+	<string name="autocomplete_1_focus">Give me Focus</string>
+</resources>

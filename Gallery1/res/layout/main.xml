@@ -4,10 +4,19 @@
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
     >
-<Gallery xmlns:android="http://schemas.android.com/apk/res/android"
-	android:id="@+ id/examplegallery"
+   <Button android:id="@+id/b1"
     android:layout_width="fill_parent"
-    android:layout_height="wrap_content" />
-
-
+    android:layout_height="wrap_content"
+    android:layout_alignParentBottom="true"
+    android:text="gallery"/>
+     <Button android:id="@+id/b2"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:layout_alignParentBottom="true"
+    android:text="contacts"/>
+     <Button android:id="@+id/b3"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:layout_alignParentBottom="true"
+    android:text="calllog"/>
 </LinearLayout>
