@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="hello">Hello World, LoginScreen!</string>
-    <string name="app_name">pictage Login Screen</string>
-    
-    <color name="textColor">#555555</color>
-     <color name="bgColor">#FFFFFF</color>
-</resources>

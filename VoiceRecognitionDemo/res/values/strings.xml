@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-
-    <string name="hello">Hello World, VoiceRecognitionDemoActivity!</string>
-    <string name="app_name">VoiceRecognitionDemo</string>
-	<string name="voice_recognition_prompt">This activity demonstrates the voice recognition APIs.</string>
-    <string name="speak_button">Speak!</string>
-    <string name="voice_recognition_results">Results:</string>
-</resources>
