@@ -1,0 +1,18 @@
+{"getAllPhotosUrl":"/photographer/remote/{clientType}/getAllPhotos/{eventId}",
+"setCoverImageUrl" : "/photographer/remote/{clientType}/setCoverImage/{eventId}/{scanNum}",
+"authToken":"gkg5gggfgggdg5g5g5gfk9gfdj98UAUf9j9eAtUkA89jUJAUUe",
+"browserPublishUrl":"/photographer/editEvent-{eventId}?layout=mobile&show=publish",
+"getStudioEventsUrl":"/photographer/remote/{clientType}/getStudioEvents/{dateId}/{filterId}/{sortId}",
+"studioId":"EY001",
+"webserverUrl":"http://www.pictage.com",
+"browserEditEventUrl":"/photographer/editEvent-{eventId}?layout=mobile",
+"getFiltersUrl":"/photographer/remote/{clientType}/getMobileFilters",
+"browserAddEventUrl":"/photographer/newEventExpressStep1?layout=mobile",
+"getEventDetailsUrl":"/photographer/remote/{clientType}/getEventDetailsUrl/{eventId}",
+"sendPhotoEmailUrl":"/photographer/remote/{clientType}/sendPhotoEmail",
+"userId":"PHV1:ME002",
+"realName":"Master Erick",
+"browserForgotPasswordUrl":"client/forgotYourPassword.do?email={email}",
+"webserverSecureUrl":"https://www.pictage.com",
+"getPhotosUrl":"/photographer/remote/{clientType}/getPhotos/{eventId}/{catOrFolderId}/{isCat}"}
+
